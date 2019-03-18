@@ -1,0 +1,10 @@
+c:\users\karlo\source\repos\Vjezba2\Vjezba2\obj\Debug\Vjezba2.csprojAssemblyReference.cache
+c:\users\karlo\source\repos\Vjezba2\Vjezba2\obj\Debug\Vjezba2.Form1.resources
+c:\users\karlo\source\repos\Vjezba2\Vjezba2\obj\Debug\Vjezba2.Properties.Resources.resources
+c:\users\karlo\source\repos\Vjezba2\Vjezba2\obj\Debug\Vjezba2.csproj.GenerateResource.cache
+c:\users\karlo\source\repos\Vjezba2\Vjezba2\obj\Debug\Vjezba2.csproj.CoreCompileInputs.cache
+c:\users\karlo\source\repos\Vjezba2\Vjezba2\bin\Debug\Vjezba2.exe.config
+c:\users\karlo\source\repos\Vjezba2\Vjezba2\bin\Debug\Vjezba2.exe
+c:\users\karlo\source\repos\Vjezba2\Vjezba2\bin\Debug\Vjezba2.pdb
+c:\users\karlo\source\repos\Vjezba2\Vjezba2\obj\Debug\Vjezba2.exe
+c:\users\karlo\source\repos\Vjezba2\Vjezba2\obj\Debug\Vjezba2.pdb
